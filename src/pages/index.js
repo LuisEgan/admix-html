@@ -1,5 +1,5 @@
 import React, { useEffect } from "react"
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 // import Image from "../components/image"
